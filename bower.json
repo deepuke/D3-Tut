@@ -3,12 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://github.com/deepuke/D3-Tut",
   "authors": [
-    "Deepu K E <deepu.ke@thomsonreuters.com>"
-  ],
-  "moduleType": [
-    "amd",
-    "globals",
-    "node"
+    "Deepu KE"
   ],
   "keywords": [
     "d3"
