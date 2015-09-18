@@ -1,0 +1,27 @@
+{
+  "name": "D3-Tut",
+  "version": "0.0.0",
+  "homepage": "https://github.com/deepuke/D3-Tut",
+  "authors": [
+    "Deepu K E <deepu.ke@thomsonreuters.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "d3"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
